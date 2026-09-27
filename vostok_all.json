@@ -1,12 +1,13 @@
 {
-  "total_unique": 11,
+  "total_unique": 12,
   "sources": {
-    "vostok-rtdb": 1,
+    "vostok-rtdb": 2,
     "nooken-rtdb": 4,
     "nooken-encrypted": 6
   },
   "configs": [
-    "vless://dc09460d-f44d-4d70-a88c-95c09ca081b4@50.114.160.244:443?sni=max.ru&encryption=none&security=reality&type=tcp&fp=chrome&pbk=cZI4yIhfOLNqyHLhjMeZT2v5aK8HF57RbCuXyP7JtkY&sid=2d34b4a5f90d9785&flow=xtls-rprx-vision#VM_318883.local_country-US",
+    "vless://f173e7c3-ce5e-4530-bbb6-519f16056588@50.114.160.239:443?sni=api-maps.yandex.ru&encryption=none&security=reality&type=tcp&fp=chrome&pbk=AQqCzDlt7aDuBhtNhFIc9baI2b_KNvxgKeUF8RN6ZSA&sid=7b8fcfc1e16f77a0&flow=xtls-rprx-vision#VM_805470.local_country-US",
+    "vless://c7676987-157d-44bb-865a-a7128f99d563@50.114.160.208:443?sni=api-maps.yandex.ru&encryption=none&security=reality&type=tcp&fp=chrome&pbk=JZ3P1sW-pqhuIKPCNzfi9UE_XA55VufF0IyRtZ4Pbzs&sid=d57e5f70ba216b1f&flow=xtls-rprx-vision#VM_373029.local_country-US",
     "vless://925ca2b7-5d1e-49f5-b1d7-a562d240736a@185.31.200.202:443?sni=cdn.jsdelivr.net&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=tL4AupzcJujTWpKxguSXxloJv8gGkZTmWI3dfbcHiU8&sid=&spx=%2F#server_e9kbmb_3",
     "vless://79ce6d29-fa38-4a19-9f80-14d66ff2e037@185.31.200.14:443?sni=tile0.maps.2gis.com&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=qYgGrSp38RwZqjjEx3TrxcYCbG1LjaFBOhB2Xb0Hmmo&sid=&spx=%2F#server_e9kbmb_4",
     "vless://cfadf87a-6122-415f-bc3e-16131a048562@185.31.200.243:443?sni=static.cloudflareinsights.com&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=t1Jru8U4_kK8ShwKNmcisipZ6tDO_q3GDQaCh4rxJHk&sid=&spx=%2F#server_e9kbmb_1",
