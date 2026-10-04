@@ -6,7 +6,7 @@
     "nooken-encrypted": 6
   },
   "configs": [
-    "vless://c3581f5e-4d3e-4c8c-8cd7-4b227f4413a4@153.52.69.141:443?sni=max.ru&encryption=none&security=reality&type=tcp&fp=chrome&pbk=vUSrhTSc1N3kxyopPAXD06KFAj5srMr4-a_15e_iqH4&sid=5d1f4ba00f37fcaa&flow=xtls-rprx-vision#VM_398707.local_country-CZ",
+    "vless://e337044e-eb0d-4a50-a720-a1b153e4d23f@5.181.183.99:443?sni=animego.me&encryption=none&security=reality&type=tcp&fp=chrome&pbk=u7yuwQVLdrXkuMpS4Nr3YSjAeuyutlAtdRHKeaxOAks&sid=4787a40e65bde23c&flow=xtls-rprx-vision#VM_652177.local_country-TR",
     "vless://925ca2b7-5d1e-49f5-b1d7-a562d240736a@185.31.200.202:443?sni=cdn.jsdelivr.net&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=tL4AupzcJujTWpKxguSXxloJv8gGkZTmWI3dfbcHiU8&sid=&spx=%2F#server_e9kbmb_3",
     "vless://79ce6d29-fa38-4a19-9f80-14d66ff2e037@185.31.200.14:443?sni=tile0.maps.2gis.com&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=qYgGrSp38RwZqjjEx3TrxcYCbG1LjaFBOhB2Xb0Hmmo&sid=&spx=%2F#server_e9kbmb_4",
     "vless://cfadf87a-6122-415f-bc3e-16131a048562@185.31.200.243:443?sni=static.cloudflareinsights.com&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=t1Jru8U4_kK8ShwKNmcisipZ6tDO_q3GDQaCh4rxJHk&sid=&spx=%2F#server_e9kbmb_1",
