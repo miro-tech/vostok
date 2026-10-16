@@ -1,21 +1,15 @@
 {
-  "total_unique": 11,
+  "total_unique": 6,
   "sources": {
-    "vostok-rtdb": 3,
-    "nooken-rtdb": 4,
-    "nooken-encrypted": 4
+    "vostok-rtdb": 2,
+    "nooken-rtdb": 4
   },
   "configs": [
     "vless://3036f1d9-b276-42af-8c09-dcd60a71bbf7@89.125.166.202:443?sni=github.com&encryption=none&security=reality&type=tcp&fp=chrome&pbk=VZ0GmAwuCRG6M0Q9wcGkB4k3KqcdaUNEHD-MbTw-qR0&sid=96558122f4492684&flow=xtls-rprx-vision#VM_166068.local_country-RO",
     "vless://7d76cc66-3e2f-4d5a-bc51-d6f00a426fa8@2.56.3.169:443?sni=api-maps.yandex.ru&encryption=none&security=reality&type=tcp&fp=chrome&pbk=mfGlXw7Ysb1MF-T18y9wG8aq7t3wy9fRGooTO0SuVXk&sid=93838eac88b5419d&flow=xtls-rprx-vision#VM_713766.local_country-FI",
-    "vless://e16a58fe-eff2-4e3e-87de-623fbe46fc0c@89.125.237.33:443?sni=github.com&encryption=none&security=reality&type=tcp&fp=chrome&pbk=N4-Mrqtl6mfZPhVopKk7805KZ5HgjtInGTU-YFP3kW0&sid=84f17a7aff9bfe5b&flow=xtls-rprx-vision#VM_838489.local_country-CZ",
     "vless://925ca2b7-5d1e-49f5-b1d7-a562d240736a@185.31.200.202:443?sni=cdn.jsdelivr.net&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=tL4AupzcJujTWpKxguSXxloJv8gGkZTmWI3dfbcHiU8&sid=&spx=%2F#server_e9kbmb_3",
     "vless://79ce6d29-fa38-4a19-9f80-14d66ff2e037@185.31.200.14:443?sni=tile0.maps.2gis.com&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=qYgGrSp38RwZqjjEx3TrxcYCbG1LjaFBOhB2Xb0Hmmo&sid=&spx=%2F#server_e9kbmb_4",
     "vless://cfadf87a-6122-415f-bc3e-16131a048562@185.31.200.243:443?sni=static.cloudflareinsights.com&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=t1Jru8U4_kK8ShwKNmcisipZ6tDO_q3GDQaCh4rxJHk&sid=&spx=%2F#server_e9kbmb_1",
-    "vless://b93245ee-98a4-4a00-abac-faa3a65d9eb7@185.31.200.127:443?sni=tile0.maps.2gis.com&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=lbghU-AN6_GDJSjj0IkxRfHyIWDH_Ef9K1az7IG37i0&sid=&spx=%2F#server_e9kbmb_2",
-    "vless://ce294307-3f55-4eaa-8896-09e3268ff1ef@179.254.92.92:443?sni=teamdocs.su&encryption=none&security=reality&type=tcp&fp=chrome&pbk=LYRs3IoZwbHzCH3CqptPYVH7XDkLqcKeB_CC21lEpk8&sid=2c7860a39d9709a5&flow=xtls-rprx-vision#VM_930966.local_country-US",
-    "vless://b4885062-b99f-4303-8315-32273ae3e982@179.254.92.105:443?sni=github.com&encryption=none&security=reality&type=tcp&fp=chrome&pbk=t529l491xxEXpM-FualWumQiAnI2najiEX2IEw_1gTM&sid=dedc50b0f748eccd&flow=xtls-rprx-vision#VM_421415.local_country-US",
-    "vless://d7302dea-799f-4d9b-999f-5bfcca9503f7@179.254.92.107:443?sni=wikiportal.su&encryption=none&security=reality&type=tcp&fp=chrome&pbk=Z05ZkYK4SD8uwmDLmpvaaNUAR_HDUTCiO7ssR68Czlw&sid=54ccfde5ef8a50d6&flow=xtls-rprx-vision#VM_305042.local_country-US",
-    "vless://b07124bd-774e-4cea-a50a-93d0c6fd13d2@179.254.92.113:443?sni=github.com&encryption=none&security=reality&type=tcp&fp=chrome&pbk=uj6Uz_D6W30jDYDRp2uL3EoHISbeeYR9cABUu4PsWDI&sid=fc2a0d7bf3bb48fd&flow=xtls-rprx-vision#VM_834951.local_country-US"
+    "vless://b93245ee-98a4-4a00-abac-faa3a65d9eb7@185.31.200.127:443?sni=tile0.maps.2gis.com&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=lbghU-AN6_GDJSjj0IkxRfHyIWDH_Ef9K1az7IG37i0&sid=&spx=%2F#server_e9kbmb_2"
   ]
 }
