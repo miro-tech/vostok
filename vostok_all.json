@@ -6,7 +6,7 @@
     "nooken-encrypted": 3
   },
   "configs": [
-    "vless://57f48f73-666e-4b82-9044-19db4db896f4@89.125.237.49:443?sni=alfabank.ru&encryption=none&security=reality&type=tcp&fp=chrome&pbk=C3iKIb0o_pBzxCF3sl7AaxaCOoWepMr9uQhE6Jq_HXc&sid=11e14fe747faa36f&flow=xtls-rprx-vision#VM_661349.local_country-CZ",
+    "vless://01226172-3a74-411f-a8f1-01eb5aab072d@89.125.237.36:443?sni=cloud.mail.ru&encryption=none&security=reality&type=tcp&fp=chrome&pbk=6QI1PFfdSIdGYCEc-YPs6uSCxF7d_srj1XIjVe_Q5Wg&sid=4e9a97769931ff8e&flow=xtls-rprx-vision#VM_224328.local_country-CZ",
     "vless://4960bceb-3d80-49a6-8f7b-40944b08185c@89.125.237.18:443?sni=cloud.mail.ru&encryption=none&security=reality&type=tcp&fp=chrome&pbk=7HWrH8I8fz1fFF5A9rGmjFRPy0r4V3mtdXzHdkAju1s&sid=1846c7bec51c91d7&flow=xtls-rprx-vision#VM_343977.local_country-CZ",
     "vless://85893256-3370-4d0b-ad90-3792e9eb5009@89.125.237.30:443?sni=alfabank.ru&encryption=none&security=reality&type=tcp&fp=chrome&pbk=YOU_UXjnmmwp096Ghb3H_H9ZZMlwFxSHLzt_rQwUQx8&sid=5019118c63a957d1&flow=xtls-rprx-vision#VM_955507.local_country-CZ",
     "vless://03d3a7ea-9fac-46ff-9da8-0e43a82397b9@89.125.237.31:443?sni=github.com&encryption=none&security=reality&type=tcp&fp=chrome&pbk=wluoybZqGySpit6VEfqgKbD3AEJQ1yi4vZZ5n6CQfhk&sid=93d0f12e416e52a4&flow=xtls-rprx-vision#VM_398707.local_country-CZ",
