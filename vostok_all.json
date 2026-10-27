@@ -6,8 +6,8 @@
     "nooken-encrypted": 3
   },
   "configs": [
-    "vless://36e3288b-3dbe-4bd7-ba3a-c75101ee42ae@163.5.153.139:443?sni=github.com&encryption=none&security=reality&type=tcp&fp=chrome&pbk=kCVH5tQjlUHPoMVluPtNmce6EL2Rmh2pm-Wn9Vq4wm8&sid=7b6294bf9ee36665&flow=xtls-rprx-vision#VM_302351.local_country-FI",
-    "vless://6d6d209d-a0ad-4a40-b023-945fc3285493@89.125.124.101:443?sni=max.ru&encryption=none&security=reality&type=tcp&fp=chrome&pbk=aJNwT5XVa6muWUIWm1udxxpK31vc7gm7Ku6n9NEMAEY&sid=63bfa79ccfcdf60d&flow=xtls-rprx-vision#VM_503153.local_country-GB",
+    "vless://9676c5fd-35c5-4d39-be25-19eac2c0cb0a@132.243.207.11:443?sni=api-maps.yandex.ru&encryption=none&security=reality&type=tcp&fp=chrome&pbk=wi09CK5RIDCnEJNFMq_ypjm1fk7MRs5-vC_WLXmz0V0&sid=1bef4ac4717be149&flow=xtls-rprx-vision#VM_976853.local_country-GB",
+    "vless://080492dc-576f-4eab-936d-afa130e768f0@153.52.95.192:443?sni=github.com&encryption=none&security=reality&type=tcp&fp=chrome&pbk=6XTx14YPHlYHgkW_wwRYKUG7Ji68hwr-KCaxd61HABo&sid=c811b423a3cda1f6&flow=xtls-rprx-vision#VM_161463.local_country-RO",
     "vless://925ca2b7-5d1e-49f5-b1d7-a562d240736a@185.31.200.202:443?sni=cdn.jsdelivr.net&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=tL4AupzcJujTWpKxguSXxloJv8gGkZTmWI3dfbcHiU8&sid=&spx=%2F#server_e9kbmb_3",
     "vless://79ce6d29-fa38-4a19-9f80-14d66ff2e037@185.31.200.14:443?sni=tile0.maps.2gis.com&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=qYgGrSp38RwZqjjEx3TrxcYCbG1LjaFBOhB2Xb0Hmmo&sid=&spx=%2F#server_e9kbmb_4",
     "vless://cfadf87a-6122-415f-bc3e-16131a048562@185.31.200.243:443?sni=static.cloudflareinsights.com&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=t1Jru8U4_kK8ShwKNmcisipZ6tDO_q3GDQaCh4rxJHk&sid=&spx=%2F#server_e9kbmb_1",
