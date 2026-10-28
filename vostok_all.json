@@ -6,9 +6,9 @@
     "nooken-encrypted": 3
   },
   "configs": [
-    "vless://f6d72f00-54a4-4203-a927-a942215098a8@45.148.116.161:443?sni=api-maps.yandex.ru&encryption=none&security=reality&type=tcp&fp=chrome&pbk=1nWb1aLoSirLj31V11X5NwFExNOb-s6io8KkFOjqaXs&sid=7904b95a8ab502e8&flow=xtls-rprx-vision#VM_815973.local_country-FI",
-    "vless://da2890cf-1513-455e-b105-05b967ecf59e@89.125.17.240:443?sni=alfabank.ru&encryption=none&security=reality&type=tcp&fp=chrome&pbk=W-qZxvrilzGq-h3fheJoWIZcqBKj0GeR99Med-l84VY&sid=b7be13f2ac8c5b92&flow=xtls-rprx-vision#VM_553944.local_country-NL",
-    "vless://3f87cd0c-1f96-4137-aa42-a22119afe0cd@5.145.176.75:443?sni=github.com&encryption=none&security=reality&type=tcp&fp=chrome&pbk=s5mz3AOa3_H6jYGqLpga_29a5OpgQRYXGFdqgJdbpxs&sid=2cc960bcf1303069&flow=xtls-rprx-vision#VM_294253.local_country-GB",
+    "vless://12f45556-8052-4f0e-8c0e-67298a4b3514@201.8.94.44:443?sni=max.ru&encryption=none&security=reality&type=tcp&fp=chrome&pbk=FK0zp65evut2ToFxROI9rakLSOK4KPDAT4i7KTkiPls&sid=88efcf032e010dc4&flow=xtls-rprx-vision#VM_838489.local_country-US",
+    "vless://ec6b4d79-28ae-4cc1-b618-0b41cb7a9e5a@201.8.94.22:443?sni=github.com&encryption=none&security=reality&type=tcp&fp=chrome&pbk=WNffYq4sZMib5gVy3e66uUbnlbGfGL3X1ba_mTXcXWs&sid=eeab38b7cc134307&flow=xtls-rprx-vision#VM_780848.local_country-US",
+    "vless://9663717f-e444-45db-9e42-b36397ef6b73@87.58.216.35:443?sni=api-maps.yandex.ru&encryption=none&security=reality&type=tcp&fp=chrome&pbk=pNu97NPhiCf-cAG3Y-9kKRTWDu-C42S4N1hAGA2vRyc&sid=b7406c0043392b81&flow=xtls-rprx-vision#VM_422497.local_country-NL",
     "vless://925ca2b7-5d1e-49f5-b1d7-a562d240736a@185.31.200.202:443?sni=cdn.jsdelivr.net&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=tL4AupzcJujTWpKxguSXxloJv8gGkZTmWI3dfbcHiU8&sid=&spx=%2F#server_e9kbmb_3",
     "vless://79ce6d29-fa38-4a19-9f80-14d66ff2e037@185.31.200.14:443?sni=tile0.maps.2gis.com&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=qYgGrSp38RwZqjjEx3TrxcYCbG1LjaFBOhB2Xb0Hmmo&sid=&spx=%2F#server_e9kbmb_4",
     "vless://cfadf87a-6122-415f-bc3e-16131a048562@185.31.200.243:443?sni=static.cloudflareinsights.com&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=t1Jru8U4_kK8ShwKNmcisipZ6tDO_q3GDQaCh4rxJHk&sid=&spx=%2F#server_e9kbmb_1",
