@@ -1,14 +1,13 @@
 {
-  "total_unique": 10,
+  "total_unique": 9,
   "sources": {
-    "vostok-rtdb": 3,
+    "vostok-rtdb": 2,
     "nooken-rtdb": 4,
     "nooken-encrypted": 3
   },
   "configs": [
-    "vless://e22698eb-e32c-4973-84d6-b68de994e39d@201.8.94.99:443?sni=github.com&encryption=none&security=reality&type=tcp&fp=chrome&pbk=s5LZio1FNoT0syj2oHAHwmgNwRXDLPnbx6Mv_Z0aSXY&sid=40890dd89b2259af&flow=xtls-rprx-vision#VM_780848.local_country-US",
-    "vless://71d474e3-ca14-417d-a084-0c55d88973f9@201.8.94.98:443?sni=api-maps.yandex.ru&encryption=none&security=reality&type=tcp&fp=chrome&pbk=PqBoJHrf1dkXXtESzcDWvAraRJZAAS1Qc7gqYkSWghE&sid=ffcde5ac001a13aa&flow=xtls-rprx-vision#VM_838489.local_country-US",
-    "vless://ed877824-4b2b-4bbc-83ba-c9c01f35a2a2@212.193.0.36:443?sni=github.com&encryption=none&security=reality&type=tcp&fp=chrome&pbk=iPhtb6cAHeIVrmr1v314_wbFc4xlmKyrcs55N6Q7XkA&sid=0219d31abfeb6c00&flow=xtls-rprx-vision#VM_733281.local_country-RO",
+    "vless://ee485fe2-05f3-45b6-b9f9-b58728708586@212.193.0.44:443?sni=max.ru&encryption=none&security=reality&type=tcp&fp=chrome&pbk=SjecaapwXr4AcTHETOs59GMChChxX1X7ZXXls2Hbv3Y&sid=1b2929c83b4a3cb9&flow=xtls-rprx-vision#VM_987737.local_country-RO",
+    "vless://97d463ce-bc25-456a-8f8a-eb31232b4dd9@212.193.0.42:443?sni=api-maps.yandex.ru&encryption=none&security=reality&type=tcp&fp=chrome&pbk=nDvF0xEg38pHrTb-Npfu0jR6Sd7g6_UpUAgaZFOvdUg&sid=11cd255dbfd61cae&flow=xtls-rprx-vision#VM_634479.local_country-XX",
     "vless://925ca2b7-5d1e-49f5-b1d7-a562d240736a@185.31.200.202:443?sni=cdn.jsdelivr.net&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=tL4AupzcJujTWpKxguSXxloJv8gGkZTmWI3dfbcHiU8&sid=&spx=%2F#server_e9kbmb_3",
     "vless://79ce6d29-fa38-4a19-9f80-14d66ff2e037@185.31.200.14:443?sni=tile0.maps.2gis.com&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=qYgGrSp38RwZqjjEx3TrxcYCbG1LjaFBOhB2Xb0Hmmo&sid=&spx=%2F#server_e9kbmb_4",
     "vless://cfadf87a-6122-415f-bc3e-16131a048562@185.31.200.243:443?sni=static.cloudflareinsights.com&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=t1Jru8U4_kK8ShwKNmcisipZ6tDO_q3GDQaCh4rxJHk&sid=&spx=%2F#server_e9kbmb_1",
