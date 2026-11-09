@@ -6,7 +6,7 @@
     "nooken-encrypted": 3
   },
   "configs": [
-    "vless://c295bbe9-f62b-4658-a712-d4bb7a951d82@201.8.80.171:443?sni=github.com&encryption=none&security=reality&type=tcp&fp=chrome&pbk=liZSew4qFuzCSnIyhR7Zh_cMRzQGv00xA9dBe86Pkls&sid=08d3e5b0b61af427&flow=xtls-rprx-vision#VM_746253.local_country-XX",
+    "vless://369ff9a5-29c0-4db7-ba0b-0201e19bdf10@212.113.116.42:443?sni=github.com&encryption=none&security=reality&type=tcp&fp=chrome&pbk=eNx7X2TQA1S1faOPYt3mg5sEPFJ6mAizKWWG17O3Jg4&sid=6d067f180c8f96cb&flow=xtls-rprx-vision#outside_brown.ptr.network_country-DE",
     "vless://925ca2b7-5d1e-49f5-b1d7-a562d240736a@185.31.200.202:443?sni=cdn.jsdelivr.net&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=tL4AupzcJujTWpKxguSXxloJv8gGkZTmWI3dfbcHiU8&sid=&spx=%2F#server_e9kbmb_3",
     "vless://79ce6d29-fa38-4a19-9f80-14d66ff2e037@185.31.200.14:443?sni=tile0.maps.2gis.com&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=qYgGrSp38RwZqjjEx3TrxcYCbG1LjaFBOhB2Xb0Hmmo&sid=&spx=%2F#server_e9kbmb_4",
     "vless://cfadf87a-6122-415f-bc3e-16131a048562@185.31.200.243:443?sni=static.cloudflareinsights.com&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=t1Jru8U4_kK8ShwKNmcisipZ6tDO_q3GDQaCh4rxJHk&sid=&spx=%2F#server_e9kbmb_1",
