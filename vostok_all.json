@@ -6,7 +6,7 @@
     "nooken-encrypted": 4
   },
   "configs": [
-    "vless://5cfb9353-b461-4b6f-bec1-5bcd5b4daa1e@48.103.175.244:443?sni=alfabank.ru&encryption=none&security=reality&type=tcp&fp=chrome&pbk=YE_P1cnXzMK7GioCj5TbdO5xtVZOvLHC0jVIguX6lkw&sid=1fcb97557d26ca1e&flow=xtls-rprx-vision#VM_636826.local_country-CZ",
+    "vless://4cbf1040-2f0c-466a-9bd7-343b1f829249@132.243.194.138:443?sni=alfabank.ru&encryption=none&security=reality&type=tcp&fp=chrome&pbk=Z9yJDyS0ZPQEMow1tgskfZyKYvXB0MSkD_N3v8WXdBk&sid=d532b8aabaf12523&flow=xtls-rprx-vision#VM_430878.local_country-DE",
     "vless://925ca2b7-5d1e-49f5-b1d7-a562d240736a@185.31.200.202:443?sni=cdn.jsdelivr.net&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=tL4AupzcJujTWpKxguSXxloJv8gGkZTmWI3dfbcHiU8&sid=&spx=%2F#server_e9kbmb_3",
     "vless://79ce6d29-fa38-4a19-9f80-14d66ff2e037@185.31.200.14:443?sni=tile0.maps.2gis.com&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=qYgGrSp38RwZqjjEx3TrxcYCbG1LjaFBOhB2Xb0Hmmo&sid=&spx=%2F#server_e9kbmb_4",
     "vless://cfadf87a-6122-415f-bc3e-16131a048562@185.31.200.243:443?sni=static.cloudflareinsights.com&fp=chrome&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=t1Jru8U4_kK8ShwKNmcisipZ6tDO_q3GDQaCh4rxJHk&sid=&spx=%2F#server_e9kbmb_1",
